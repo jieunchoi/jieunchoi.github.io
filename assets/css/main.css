@@ -132,7 +132,7 @@
 		}
 
 		.container {
-			width: 42em;
+			width: 44em;
 		}
 
 	}
@@ -2428,18 +2428,19 @@
 			display: inline-block;
 			padding-right: 2.5em;
 			vertical-align: middle;
-			width: 48%;
+			float: right;
+			width: 55%;
 		}
 
 			.features article .image img {
-				display: block;
+/*				display: block;*/
 				width: 100%;
 			}
 
 		.features article .inner {
-			display: inline-block;
+/*			display: inline-block;
 			vertical-align: middle;
-			width: 50%;
+			width: 43%;*/
 		}
 
 			.features article .inner > :last-child {
